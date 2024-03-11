@@ -15,4 +15,4 @@ INODER TO DO THIS PROEJECT FOLLOW THE BELOW STEPS:
 - step2:boot the esp32 cam module and start the live stream for the attendance capture.
 
 ## results
-- the attandance is monitored in the 
+- the attandance is monitored in the csv file
